@@ -1,2 +1,2 @@
 # pfd-discovery
-pfd discovery project
+pfd discovery project + canonical cover computation
